@@ -50,14 +50,11 @@ The solution involves implementing a customer segmentation model using k-mean cl
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/ayushdev234/customer_segmentation.git)
 ```
 
-Go to the project directory
 
-```bash
-  cd my-project
-```
+
 
 Run the code given in ipython notebook `Cust_segmentation_online_retail.ipynb`
 
