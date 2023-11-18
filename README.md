@@ -39,9 +39,10 @@ The solution involves implementing a customer segmentation model using k-mean cl
 .....
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](screenshots/Screenshot%20(215).png)
+![App Screenshot](screenshots/Screenshot%20(217).png)
+![App Screenshot](screenshots/Screenshot%20(218).png)
+
 
 
 ## Run Locally
